@@ -71,7 +71,7 @@ public class SongDaoImpl extends BaseDaoImpl<Song> implements SongDao {
         }
     }
 
-    @SuppressWarnings("unchecked")
+    @SuppressWarnings({"unchecked", "JpaQlInspection"})
     @Override
     public List<Song> getSongsByCriteria(List<Integer> ids) {
         LOGGER.trace("getSongsByCriteria");

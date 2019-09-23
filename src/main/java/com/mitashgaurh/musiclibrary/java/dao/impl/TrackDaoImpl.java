@@ -38,7 +38,7 @@ public class TrackDaoImpl extends BaseDaoImpl<Track> implements TrackDao {
         }
     }
 
-    @SuppressWarnings("unchecked")
+    @SuppressWarnings({"unchecked", "JpaQlInspection"})
     @Override
     public List<Track> getTracksByAlbum(List<Integer> albumIds) {
         LOGGER.trace("getTracksByAlbum");
