@@ -35,7 +35,7 @@
     <properties>
         <app.version>1.0.0</app.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.framework.version>5.1.9.RELEASE</spring.framework.version>
+        <spring.framework.version>5.2.3.RELEASE</spring.framework.version>
         <spring.security.version>5.1.6.RELEASE</spring.security.version>
         <hibernate.version>5.2.10.Final</hibernate.version>
         <hibernate.validator.version>5.2.4.Final</hibernate.validator.version>
