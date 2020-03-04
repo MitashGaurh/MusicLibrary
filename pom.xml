@@ -44,7 +44,7 @@
         <slf4j.version>1.7.28</slf4j.version>
         <javax.servlet.version>4.0.1</javax.servlet.version>
         <javax.validation.version>2.0.1.Final</javax.validation.version>
-        <jackson.core.version>2.9.9</jackson.core.version>
+        <jackson.core.version>2.10.3</jackson.core.version>
         <jackson.mapper.version>1.9.13</jackson.mapper.version>
         <orika.version>1.5.4</orika.version>
         <swagger.version>2.9.2</swagger.version>
